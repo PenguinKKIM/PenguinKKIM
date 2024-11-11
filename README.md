@@ -1,4 +1,4 @@
-## 안녕하세요 프론트엔드 신입 개발자 김희준 입니다 👋
+## 안녕하세요 프론트엔드 신입 개발자 김희준 입니다 👋
 
 <div>  
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
@@ -15,7 +15,16 @@
 </div>
 
 <br/>
+<div>
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+</div>
+<div>
+<img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/google-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" />
+  <a href="clfrck124@gmail.com">Google E-mail</a>
+</div>
 
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=PenguinKKIM)](https://github.com/marshallku/gitgarden)
 
