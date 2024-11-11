@@ -18,7 +18,9 @@
 </div>
 
 <br/>
+
 #### Contact Me
+
 <div>
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
