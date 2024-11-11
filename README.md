@@ -1,6 +1,8 @@
 ## 안녕하세요 프론트엔드 신입 개발자 김희준 입니다 👋
 ### 고객의 요구를 이해하는 전직 애견미용사, 이제는 UI/UX에 진심인 프론트엔드 개발자입니다!
 <br/>
+
+#### 기술스택
 <div>  
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></span>
 </div>
@@ -16,12 +18,17 @@
 </div>
 
 <br/>
+#### Contact Me
 <div>
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/google-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" />
-  <a href="clfrck124@gmail.com">Google E-mail</a>
+  <a href="mailto:clfrck124@gmail.com">Google E-mail</a>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" />
+  <a href="mailto:clfrck@naver.com">NAVER E-mail</a>
 </div>
 
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=PenguinKKIM)](https://github.com/marshallku/gitgarden)
